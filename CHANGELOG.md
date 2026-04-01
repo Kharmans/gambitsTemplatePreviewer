@@ -1,6 +1,10 @@
 # Changelog
 
 ## [v2.1.1] - 2026-04-01
+- Added V14 and DND5e 5.3.x support! This will require further work in 5e V6 most likely, but for now is still all good
+- Added pt-br translations, thanks Kharmans!
+
+## [v2.1.1] - 2026-04-01
 - Added handling for spell preparation mode deprecation warnings in 5.1.x
 - Added keybind option to open the Template Previewer window. Default is Ctrl + P
 - Added settings option to disable the Token Controls Menu button for Template Previewer. This was implemented so that if you'd like to use a keybind only and reduce the Token Controls menu button clutter, you can
