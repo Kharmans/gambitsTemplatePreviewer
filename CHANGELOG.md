@@ -1,5 +1,11 @@
 # Changelog
 
+## [v2.1.1] - 2026-04-01
+- Added handling for spell preparation mode deprecation warnings in 5.1.x
+- Added keybind option to open the Template Previewer window. Default is Ctrl + P
+- Added settings option to disable the Token Controls Menu button for Template Previewer. This was implemented so that if you'd like to use a keybind only and reduce the Token Controls menu button clutter, you can
+- New localization keys added to support these additions
+
 ## [v2.1.0] - 2025-09-25
 - Added handling for spell preparation mode deprecation warnings in 5.1.x
 - Added keybind option to open the Template Previewer window. Default is Ctrl + P
